@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Joystick module connected to Arduino. The Arduino acts as the Controller to drive the stepper motors\relax }}{3}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces RPi Module connected to internet and receiving commands from a remote-PC\relax }}{4}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Rendering of XYZ-Gantry\relax }}{5}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Stepper Motor\relax }}{6}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Stepper Motor Driver\relax }}{7}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arduino UNO\relax }}{9}{figure.caption.14}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Arduino UNO Connected to HC-05\relax }}{10}{figure.caption.16}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Joystick Shield for Arduino\relax }}{11}{figure.caption.17}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Joystick Arduino Hookup Schematic\relax }}{12}{figure.caption.18}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Joystick connected to Arduino \relax }}{12}{figure.caption.19}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Joystick connected to Arduino and Stepper Motor \relax }}{13}{figure.caption.20}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Joystick connected to Arduino and 3 Stepper Motors \relax }}{14}{figure.caption.21}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Schematic of Bluetooth Module HC05 and Stepper motor connected to Arduino\relax }}{15}{figure.caption.22}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Bluetooth Module HC05 and Stepper motor connected to Arduino\relax }}{16}{figure.caption.23}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Simple Android App used to test the HC05 setup and Stepper motor\relax }}{16}{figure.caption.24}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
